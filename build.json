@@ -1,0 +1,20 @@
+{
+  "android": {
+    "debug": {
+      "keystore": "./my-release-key.keystore",
+      "storePassword": "Milpa2020",
+      "alias": "alias_name",
+      "password": "Milpa2020",
+      "keystoreType": "",
+      "packageType": "apk"
+    },
+    "release": {
+      "keystore": "D:\\Zoftinium\\Data\\Projects\\Milpa\\Design\\App\\Pgli.keystore",
+      "storePassword": "zoftinium",
+      "alias": "Pgli",
+      "password": "zoftinium",
+      "keystoreType": "",
+      "packageType": "apk"
+    }
+  }
+}
